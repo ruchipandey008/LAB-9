@@ -1,7 +1,7 @@
-# LAB-8
+# LAB-9
 
 ## Instructions
- - Lab 8 is graded and submission is compulsory.
+ - Lab 9 is graded and submission is compulsory.
  - Code has to be done in MATLAB.
  - Clone this repository in your local machine.
  - <strong> Commit after the deadline will not be considered </strong>.
@@ -28,4 +28,4 @@
 - If these guidelines aren't met, you will receive penalties or those codes might not be evaluated.
 - Create two folders named codes and results and upload your codes and results in the respective folders in the same format as mentioned earlier. 
 
- ## Deadline : 20/07/2021 by 11:59 PM
+ ## Deadline : 27/07/2021 by 11:59 PM
